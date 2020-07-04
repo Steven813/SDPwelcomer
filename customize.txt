@@ -1,0 +1,14 @@
+
+on the cl.lua  add any colour you want only replace the letter 
+on the client lua!
+
+Colors:
+~r~ = Red
+~b~ = Blue
+~g~ = Green
+~y~ = Yellow
+~p~ = Purple
+~c~ = Grey
+~m~ = Dark Grey
+~u~ = Black
+~o~ = Orange
